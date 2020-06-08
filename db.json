@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "James McElroy",
+      "image": "https://www.babipur.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/o/sophie_the_giraffe_teether.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "James McElroy",
+      "image": "https://www.babipur.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/o/sophie_the_giraffe_teether.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "James McElroy",
+      "image": "asdfasdf",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
