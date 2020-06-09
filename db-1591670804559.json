@@ -78,17 +78,6 @@
       "name": "Drew",
       "image": "https://images.squarespace-cdn.com/content/v1/523d3714e4b0f99c83edcd1c/1459230477773-T2FT4ZEX4JC3ZCSDKA43/ke17ZwdGBToddI8pDm48kNO2SymwcR0CNt03aX8zdCd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmyh-8_5GJNvrfz4o4yOfLS6zQbzUiTKHw9oGJVKerm66NTpMeMsHjVpXC93GFBavO/drew4.jpg",
       "id": 14
-    },
-    {
-      "name": "Drew's Favorite Bar",
-      "image": "https://lostinaustin.org/listify/wp-content/uploads/2019/02/whislers-header-lia-01.jpg",
-      "id": 15
-    },
-    {
-      "name": "Don",
-      "image": "https://pbs.twimg.com/profile_images/916370253969424387/kmQrJHic.jpg",
-      "likes": 3,
-      "id": 16
     }
   ]
 }
