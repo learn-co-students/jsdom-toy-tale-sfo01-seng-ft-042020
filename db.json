@@ -4,25 +4,25 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 9
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 20
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 14
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 5
     },
     {
       "id": 5,
@@ -34,19 +34,49 @@
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "likes": 4
     },
     {
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 1
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 2
+    },
+    {
+      "name": "madcat",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkidscreen.com%2F2018%2F02%2F20%2Fwicked-cool-toys-wants-to-heat-things-up%2F&psig=AOvVaw1V2UbLzx91LA9-3vjNBgeS&ust=1591850551496000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjHmse39ukCFQAAAAAdAAAAABAH",
+      "likes": 1,
+      "id": 9
+    },
+    {
+      "name": "noname",
+      "image": "https://www.ebay.com/itm/Toys-For-Girls-Robot-Kids-Toddler-3-4-5-6-7-8-Year-Old-Age-Girls-Cool-Toy-Gift/302873430321",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "yoda",
+      "image": "https://cdn-ssl.s7.disneystore.com/is/image/DisneyShopping/1231047442892",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "ball monster",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gh-best-toys-per-age-1-1572457502.png?crop=0.502xw:1.00xh;0.233xw,0&resize=640:*",
+      "likes": 1,
+      "id": 12
+    },
+    {
+      "name": "lama",
+      "image": "https://www.hijinx.ca/wp-content/uploads/2019/09/manhattan_toy_company.jpg",
+      "likes": 2,
+      "id": 13
     }
   ]
 }
